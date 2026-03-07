@@ -13,5 +13,5 @@
 - Python
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/your-link
+- LinkedIn:https://www.linkedin.com/in/akshay-kumar-b-b-719486292/
 - Email: akshaykumarbb058@gmail.com
