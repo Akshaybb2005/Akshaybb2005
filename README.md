@@ -31,12 +31,12 @@ I'm looking to collaborate on real world projects
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Navan-2005\&theme=blue_navy\&hide_border=false\&include_all_commits=false\&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Akshaybb2005\&theme=blue_navy\&hide_border=false\&include_all_commits=false\&count_private=false)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Navan-2005\&theme=blue_navy\&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Akshaybb2005\&theme=blue_navy\&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Navan-2005\&theme=blue_navy\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaybb2005\&theme=blue_navy\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Navan-2005\&icon=0\&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Akshaybb2005\&icon=0\&color=0)](https://visitcount.itsvg.in)
